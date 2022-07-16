@@ -46,7 +46,7 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Renamer Bot ⚡", url="https://t.me/VENGEANCE_URL_UPLOADER_BOT"
+                        "Renamer Bot ⚡", url="https://t.me/VENGEANCE_RENAMER_BOT"
                     ),
                     InlineKeyboardButton(" Channel 👨🏻‍💻", url="https://t.me/MIDDLEEASTDESTROYER"),
                 ],
